@@ -1,0 +1,17 @@
+div.voltar{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-wrap: nowrap;
+  }
+section {
+    display: flex;
+    max-width: 100%;
+  }
+#row {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-grow: 1;
+    flex-direction: row;
+    justify-content:space-between;
+  }
